@@ -1,0 +1,6 @@
+device,device_name,run,params_M,infer_ms_med,total_ms_med,total_ms_p95,fps
+CPU,"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",yolo11n_base,2.59,47.28,50.2,56.14,19.9
+CPU,"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",yolo11s_base,9.43,106.76,110.58,118.73,9.0
+CPU,"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",yolo26n_base,2.51,46.49,49.61,62.96,20.2
+CPU,"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",yolov8n_base,3.01,46.57,49.96,58.37,20.0
+CPU,"Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",yolov8s_base,11.14,114.65,118.82,127.38,8.4

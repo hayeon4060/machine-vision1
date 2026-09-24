@@ -1,0 +1,101 @@
+file,split,gt_class,pred_class,distance_m,conf
+2_2.0 (10).jpg,near,2_class,,,
+2_2.0 (11).jpg,near,2_class,,,
+2_2.0 (12).jpg,near,2_class,,,
+2_2.0 (13).jpg,near,2_class,,,
+2_2.0 (14).jpg,near,2_class,,,
+2_2.0 (15).jpg,near,2_class,,,
+2_2.0 (16).jpg,near,2_class,,,
+2_2.0 (17).jpg,near,2_class,,,
+2_2.0 (2).jpg,near,2_class,,,
+2_2.0 (21).jpg,near,2_class,,,
+2_2.0 (3).jpg,near,2_class,,,
+2_2.0 (4).jpg,near,2_class,,,
+2_2.0 (5).jpg,near,2_class,,,
+2_2.0 (6).jpg,near,2_class,,,
+2_2.0 (7).jpg,near,2_class,,,
+2_2.0 (8).jpg,near,2_class,,,
+2_2.0 (9).jpg,near,2_class,,,
+2_2.0.jpg,near,2_class,,,
+4_2.0 (10).jpg,near,4_class,4_class,1.79,0.828
+4_2.0 (11).jpg,near,4_class,,,
+4_2.0 (12).jpg,near,4_class,4_class,1.7,0.783
+4_2.0 (13).jpg,near,4_class,4_class,1.7,0.748
+4_2.0 (18).jpg,near,4_class,,,
+4_2.0 (19).jpg,near,4_class,,,
+4_2.0 (2).jpg,near,4_class,4_class,1.53,0.871
+4_2.0 (20).jpg,near,4_class,4_class,2.19,0.944
+4_2.0 (3).jpg,near,4_class,,,
+4_2.0 (4).jpg,near,4_class,,,
+4_2.0 (5).jpg,near,4_class,4_class,1.55,0.804
+4_2.0 (6).jpg,near,4_class,4_class,1.59,0.91
+4_2.0 (7).jpg,near,4_class,,,
+4_2.0 (8).jpg,near,4_class,,,
+4_2.0 (9).jpg,near,4_class,4_class,1.91,0.738
+4_2.0.jpg,near,4_class,4_class,1.62,0.827
+front_4.0 (10).jpg,near,front_door,front_door,2.92,0.932
+front_4.0 (11).jpg,near,front_door,front_door,2.84,0.966
+front_4.0 (12).jpg,near,front_door,front_door,3.0,0.955
+front_4.0 (13).jpg,near,front_door,front_door,3.06,0.919
+front_4.0 (14).jpg,near,front_door,front_door,2.81,0.96
+front_4.0 (15).jpg,near,front_door,front_door,2.8,0.959
+front_4.0 (16).jpg,near,front_door,front_door,3.13,0.942
+front_4.0 (17).jpg,near,front_door,front_door,3.26,0.948
+front_4.0 (18).jpg,near,front_door,front_door,3.18,0.967
+front_4.0 (2).jpg,near,front_door,front_door,2.62,0.907
+front_4.0 (3).jpg,near,front_door,front_door,2.81,0.812
+front_4.0 (4).jpg,near,front_door,front_door,3.74,0.912
+front_4.0 (5).jpg,near,front_door,front_door,2.57,0.959
+front_4.0 (6).jpg,near,front_door,front_door,2.75,0.907
+front_4.0 (7).jpg,near,front_door,front_door,2.68,0.898
+front_4.0 (8).jpg,near,front_door,,,
+front_4.0 (9).jpg,near,front_door,front_door,2.74,0.952
+front_4.0.jpg,near,front_door,front_door,2.81,0.869
+rear_4.0 (10).jpg,near,rear_door,rear_door,2.43,0.791
+rear_4.0 (11).jpg,near,rear_door,rear_door,2.63,0.883
+rear_4.0 (12).jpg,near,rear_door,rear_door,2.84,0.768
+rear_4.0 (13).jpg,near,rear_door,rear_door,2.69,0.92
+rear_4.0 (14).jpg,near,rear_door,rear_door,2.41,0.829
+rear_4.0 (15).jpg,near,rear_door,rear_door,2.88,0.826
+rear_4.0 (16).jpg,near,rear_door,rear_door,2.64,0.813
+rear_4.0 (17).jpg,near,rear_door,rear_door,2.46,0.952
+rear_4.0 (18).jpg,near,rear_door,rear_door,2.36,0.97
+rear_4.0 (2).jpg,near,rear_door,rear_door,3.45,0.93
+rear_4.0 (3).jpg,near,rear_door,rear_door,3.7,0.558
+rear_4.0 (4).jpg,near,rear_door,rear_door,3.56,0.915
+rear_4.0 (5).jpg,near,rear_door,rear_door,3.26,0.947
+rear_4.0 (6).jpg,near,rear_door,rear_door,3.02,0.952
+rear_4.0 (7).jpg,near,rear_door,rear_door,2.91,0.938
+rear_4.0 (8).jpg,near,rear_door,rear_door,3.16,0.93
+rear_4.0 (9).jpg,near,rear_door,rear_door,2.46,0.947
+rear_4.0.jpg,near,rear_door,rear_door,3.48,0.955
+2_5.0 (2).jpg,far,2_class,,,
+2_5.0 (3).jpg,far,2_class,,,
+2_5.0 (4).jpg,far,2_class,,,
+2_5.0 (5).jpg,far,2_class,2_class,5.04,0.746
+2_5.0 (6).jpg,far,2_class,,,
+2_5.0 (7).jpg,far,2_class,2_class,4.3,0.712
+2_5.0.jpg,far,2_class,,,
+4_5.0 (10).jpg,far,4_class,,,
+4_5.0 (2).jpg,far,4_class,,,
+4_5.0 (3).jpg,far,4_class,,,
+4_5.0 (4).jpg,far,4_class,,,
+4_5.0 (5).jpg,far,4_class,4_class,3.53,0.688
+4_5.0 (6).jpg,far,4_class,4_class,3.65,0.816
+4_5.0 (7).jpg,far,4_class,4_class,3.66,0.735
+4_5.0 (8).jpg,far,4_class,,,
+4_5.0 (9).jpg,far,4_class,4_class,3.65,0.652
+4_5.0.jpg,far,4_class,,,
+front_2.0 (2).jpg,far,front_door,,,
+front_2.0 (3).jpg,far,front_door,front_door,1.72,0.89
+front_2.0 (4).jpg,far,front_door,front_door,4.48,0.922
+front_2.0 (5).jpg,far,front_door,,,
+front_2.0 (6).jpg,far,front_door,front_door,3.74,0.861
+front_2.0 (7).jpg,far,front_door,front_door,1.75,0.86
+front_2.0.jpg,far,front_door,front_door,1.79,0.581
+rear_2.0 (2).jpg,far,rear_door,rear_door,1.45,0.615
+rear_2.0 (3).jpg,far,rear_door,,,
+rear_2.0 (4).jpg,far,rear_door,rear_door,1.63,0.893
+rear_2.0 (5).jpg,far,rear_door,rear_door,1.67,0.915
+rear_2.0 (6).jpg,far,rear_door,,,
+rear_2.0.jpg,far,rear_door,rear_door,1.48,0.784

@@ -1,0 +1,7 @@
+﻿ultralytics
+opencv-python<5
+easyocr
+pyttsx3
+pillow
+numpy
+pandas

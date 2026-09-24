@@ -1,0 +1,8 @@
+.venv*
+dataset/
+test_ext/
+near_far/
+distance_data/
+*.zip
+*.mp4
+weights/
